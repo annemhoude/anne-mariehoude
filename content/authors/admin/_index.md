@@ -30,7 +30,7 @@ education:
   courses:
     - course: MS Political Science
       institution: University of Montreal
-      year: 2018
+      year: 2019
     - course: BA in Economics and Politics
       institution: Laval University
       year: 2017
