@@ -25,33 +25,24 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: anne-marie.houde@warwick.ac.uk
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    street: Social Sciences Building, University of Warwick
+    city: Coventry
+    postcode: CV4 7AL
+    country: United Kingdom
+    country_code: UK
+  
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Twitter
+      link: 'https://twitter.com/AnneMarieHoude'
+    
 
 design:
   columns: '2'
 ---
+<a class="twitter-timeline" data-width="500" data-height="200" href="https://twitter.com/AnneMarieHoude?ref_src=twsrc%5Etfw">Tweets by AnneMarieHoude</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+---
+
