@@ -9,6 +9,7 @@ superuser: true
 role: PhD Candidate in Politics and International Studies
 
 # Organizations/Affiliations to show in About widget
+organizations:
  - name: University of Warwick
     url: https://warwick.ac.uk/fac/soc/pais/
 
