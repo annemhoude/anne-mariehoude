@@ -34,7 +34,7 @@ title: "Narrating Europe: (Re-)constructed and Contested Visions of the European
   Project in Citizens' Discourse"
 doi: https://doi.org/10.1111/jcms.13364
 publication: _Journal of Common Market Studies_
-featured: false
+featured: true
 image:
   filename: narrating.png
   focal_point: Smart
