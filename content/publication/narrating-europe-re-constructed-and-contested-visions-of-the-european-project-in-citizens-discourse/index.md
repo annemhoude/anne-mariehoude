@@ -41,3 +41,5 @@ summary: "Using focus group data in four countries (France, Portugal, Italy and
   "
 date: 2022-06-26T06:13:28.667Z
 ---
+![screen reader text](narrating.png "caption")
+--
