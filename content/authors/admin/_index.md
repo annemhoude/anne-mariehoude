@@ -61,7 +61,7 @@ social:
 email: 'anne-marie.houde@warwick.ac.uk'
 
 # Highlight the author in author lists? (true/false)
-  highlight_name: true
+highlight_name: true
 ---
 
 I am a PhD candidate at the Department of Politics and International Studies and a recipient of the [Chancellor’s International Scholarship](https://warwick.ac.uk/services/dc/schols_fund/scholarships_and_funding/chancellors_int/) (2019-2023). Before beginning my PhD at Warwick I completed an MSc in Political Science at the University of Montreal.
