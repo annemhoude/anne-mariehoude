@@ -38,6 +38,6 @@ featured: true
 image:
   filename: narrating.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2022-06-26T06:13:28.667Z
 ---
