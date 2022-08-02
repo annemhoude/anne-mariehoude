@@ -1,6 +1,4 @@
 ---
-title: "Narrating Europe: (Re-)constructed and Contested Visions of the European
-  Project in Citizens' Discourse"
 publication_types:
   - "2"
 authors:
@@ -9,9 +7,6 @@ authors:
   - Hélène Caune
   - Anne-Marie Houde
   - Damien Pennetreau
-doi: https://doi.org/10.1111/jcms.13364
-url_source: https://doi.org/10.1111/jcms.13364
-publication: _Journal of Common Market Studies_
 abstract: Changes in public opinion and civil society over the last decade have
   shown that citizens, particularly in old EU Member States, have developed more
   complex attitudes towards European integration. While the European project was
@@ -30,16 +25,19 @@ abstract: Changes in public opinion and civil society over the last decade have
   importance of socio-economic contexts, as well as national and personal
   experience in the re-appropriation of these narratives.
 draft: false
-featured: true
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
 summary: "Using focus group data in four countries (France, Portugal, Italy and
   Belgium) and three social groups (21 group interviews), we provide a
   comparative qualitative answer to how citizens envision European integration.
   "
+url_source: https://doi.org/10.1111/jcms.13364
+title: "Narrating Europe: (Re-)constructed and Contested Visions of the European
+  Project in Citizens' Discourse"
+doi: https://doi.org/10.1111/jcms.13364
+publication: _Journal of Common Market Studies_
+featured: false
+image:
+  filename: narrating.png
+  focal_point: Smart
+  preview_only: false
 date: 2022-06-26T06:13:28.667Z
 ---
-![screen reader text](narrating.png "caption")
---
