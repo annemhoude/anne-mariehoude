@@ -1,6 +1,3 @@
-
-![](narrating.png)
-
 ---
 publication_types:
   - "2"
@@ -45,3 +42,5 @@ image:
 
 date: 2022-06-26T06:13:28.667Z
 ---
+![](narrating.png)
+ 
