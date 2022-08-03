@@ -36,10 +36,9 @@ doi: https://doi.org/10.1111/jcms.13364
 publication: _Journal of Common Market Studies_
 featured: true
 image:
-  filename: ""
-  focal_point: Smart
+  filename: narrating.png
+  focal_point: top
   preview_only: true
-
 date: 2022-06-26T06:13:28.667Z
 ---
 ![](narrating.png)
