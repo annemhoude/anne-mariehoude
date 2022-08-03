@@ -1,3 +1,6 @@
+
+![](narrating.png)
+
 ---
 publication_types:
   - "2"
@@ -39,6 +42,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: true
+
 date: 2022-06-26T06:13:28.667Z
 ---
-![](narrating.png)
