@@ -1,12 +1,4 @@
 ---
-title: "Emotional Politicisation of the European Union: Towards a New Framework
-  of Analysis"
-publication_types:
-  - "3"
-authors:
-  - Nicolai Gellwitzki
-  - Anne-Marie Houde
-publication: RESTEP Working papers
 abstract: >-
   Politicisation of European issues in times of crises but this paper challenges
   the
@@ -35,8 +27,16 @@ abstract: >-
 
   progresses and is perceived to be salient and of European dimensions.
 draft: false
-featured: false
 url_pdf: http://www.restep.ca/wp-content/uploads/2021/03/Gellwitzki-Houde-Working-Paper-FINALE.pdf
+title: "Emotional Politicisation of the European Union: Towards a New Framework
+  of Analysis"
+publication_types:
+  - "3"
+authors:
+  - Nicolai Gellwitzki
+  - Anne-Marie Houde
+publication: RESTEP Working papers
+featured: false
 image:
   filename: featured
   focal_point: Smart
@@ -48,3 +48,4 @@ summary: >-
   migration in the years 2015 and 2016.
 date: 2021-10-01T06:34:18.627Z
 ---
+![](screenshot-2022-08-05-at-09.40.16.png)
