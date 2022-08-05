@@ -1,13 +1,9 @@
 ---
-title: "Feeling the Heat: Emotions, Politicization, and the European Union"
 publication_types:
   - "2"
 authors:
   - Nicolai Gellwitzki
   - Anne-Marie Houde
-doi: 10.1111/jcms.13328
-url_source: https://onlinelibrary.wiley.com/doi/full/10.1111/jcms.13328
-publication: _Journal of Common Market Studies_
 abstract: For over a decade, scholars of European studies have been studying a
   phenomenon referred to as the politicization of the European Union, usually
   defined as the intensification of a political debate, the polarization of
@@ -22,16 +18,21 @@ abstract: For over a decade, scholars of European studies have been studying a
   integrating emotions into explanatory models is illustrated through the case
   of the Brexit campaign.
 draft: false
+summary: "This article extends existing explanatory models by offering a
+  systematic theorization of the role emotions in EU politicization to establish
+  that emotions are integral to every step of the process.
+
+  \  "
+url_source: https://onlinelibrary.wiley.com/doi/full/10.1111/jcms.13328
+title: "Feeling the Heat: Emotions, Politicization, and the European Union"
+doi: 10.1111/jcms.13328
+publication: _Journal of Common Market Studies_
 featured: true
 image:
   placement: 2
   filename: featured
   focal_point: smart
   preview_only: false
-summary: "This article extends existing explanatory models by offering a
-  systematic theorization of the role emotions in EU politicization to establish
-  that emotions are integral to every step of the process.
-
-  \  "
 date: 2022-03-10T07:48:00.000Z
 ---
+![](screenshot-2022-08-05-at-09.40.37.png)
