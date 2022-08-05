@@ -20,9 +20,9 @@ bio: My research interests include European studies, emotion research in
 
 # Interests to show in About widget
 interests:
-  - European studies
   - Emotion research in International Relations
   - Political and Social psychology
+  - European studies
   - Citizens’ perspectives and the Everyday.
 
 # Education to show in About widget
