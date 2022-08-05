@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS Political Science
+    - course: MSc Political Science
       institution: University of Montreal
       year: 2019
     - course: BA in Economics and Politics
