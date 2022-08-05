@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Senior Graduate Tutor Associate
+    company: Department of Politics and International Studies, University of Warwick
+    company_url: ""
+    company_logo: warwick
+    location: Coventry, UK
+    date_start: 2022-09-30
+    date_end: ""
+    description: |-
+      Modules taught:
+
+       * PO131 World Politics
+       * PO238 Themes in European Integration
+       *
   - title: Senior Graduate Tutor Associate
     company: Department of Politics and International Studies, University of Warwick
     company_url: ""
     company_logo: warwick
     location: Coventry, UK
     date_start: 2021-09-30
-    date_end: ""
+    date_end: 2022-07-30
     description: |-
       Modules taught:
 
