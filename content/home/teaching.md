@@ -35,7 +35,7 @@ experience:
 
        * PO131 World Politics
        * PO238 Themes in European Integration
-       *
+       
   - title: Senior Graduate Tutor Associate
     company: Department of Politics and International Studies, University of Warwick
     company_url: ""
