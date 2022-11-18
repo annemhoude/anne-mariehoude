@@ -2,7 +2,7 @@
 publication_types:
   - "2"
 title: 
-  - "From Realpolitik to Gefühlspolitik : strategically narrating the European Union at the national level"
+  "From Realpolitik to Gefühlspolitik : strategically narrating the European Union at the national level"
 authors:
   - Nicolai Gellwitzki
   - Anne-Marie Houde
